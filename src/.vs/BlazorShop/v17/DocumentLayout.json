@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\shared\\showrecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\shared\\showrecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\shared\\statusmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\shared\\statusmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\pages\\products\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\pages\\products\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\pages\\products\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\pages\\products\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\lockout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\lockout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\invaliduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\invaliduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|d:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\components\\account\\shared\\accountlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A32897C7-AE8A-4DAD-9A0B-1AFB531B9AEA}|BlazorShop.csproj|solutionrelative:components\\account\\shared\\accountlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 235,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:17:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageNavMenu.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:16:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowRecoveryCodes.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ShowRecoveryCodes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:16:54.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusMessage.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\StatusMessage.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\StatusMessage.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\StatusMessage.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\StatusMessage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:16:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Pages\\Products\\Edit.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Products\\Edit.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Pages\\Products\\Edit.razor",
+              "RelativeToolTip": "Components\\Pages\\Products\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:16:20.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Pages\\Products\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Products\\Index.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Pages\\Products\\Index.razor",
+              "RelativeToolTip": "Components\\Pages\\Products\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:16:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageLayout.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:03:06.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:02:49.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityNoOpEmailSender.cs",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityNoOpEmailSender.cs",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityNoOpEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:02:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterConfirmation.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:33.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lockout.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Lockout.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Lockout.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Lockout.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Lockout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:27.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvalidUser.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\InvalidUser.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\InvalidUser.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\InvalidUser.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\InvalidUser.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:26.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWithRecoveryCode.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:25.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\_Imports.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\_Imports.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:23.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:21.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Disable2fa.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:20.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeletePersonalData.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:19.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Email.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\Email.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\Email.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:18.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnableAuthenticator.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:18.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExternalLogins.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenerateRecoveryCodes.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:02:16.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:01:16.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-05T18:00:55.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-05T18:00:52.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:00:50.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T17:57:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-05T17:54:50.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T17:53:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountLayout.razor",
+              "DocumentMoniker": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\AccountLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\AccountLayout.razor",
+              "ToolTip": "D:\\projetosdiversos\\projetos_csharp\\example_csharp_blazor\\src\\Components\\Account\\Shared\\AccountLayout.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\AccountLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T17:53:25.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
